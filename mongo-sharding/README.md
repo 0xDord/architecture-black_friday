@@ -8,6 +8,16 @@
 docker compose up -d
 ```
 
+Подключаемся к серверу конфигурации и выполняем инициализацию:
+```shell
+./scripts/mongo-init-config.sh
+```
+
+Выполняем инициализацию шардов:
+```shell
+./scripts/mongo-init-shards.sh
+```
+
 Заполняем mongodb данными
 
 ```shell

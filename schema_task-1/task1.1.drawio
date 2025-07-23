@@ -10,13 +10,13 @@
         <mxCell id="zA23MoTUsTF4_91t8viU-3" value="pymongo-api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CvNH-Yc4kmu2Opaz4pRZ-2" value="shard2-2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="CvNH-Yc4kmu2Opaz4pRZ-2" value="shard2-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="570" y="360" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CvNH-Yc4kmu2Opaz4pRZ-4" value="configSrv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CvNH-Yc4kmu2Opaz4pRZ-5" value="router" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CvNH-Yc4kmu2Opaz4pRZ-5" value="mongos_router" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CvNH-Yc4kmu2Opaz4pRZ-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zA23MoTUsTF4_91t8viU-3" target="CvNH-Yc4kmu2Opaz4pRZ-5">

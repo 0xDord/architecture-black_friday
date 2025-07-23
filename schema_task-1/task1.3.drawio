@@ -25,7 +25,7 @@
         <mxCell id="CvNH-Yc4kmu2Opaz4pRZ-4" value="configSrv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CvNH-Yc4kmu2Opaz4pRZ-5" value="router" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CvNH-Yc4kmu2Opaz4pRZ-5" value="mongos_router" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CvNH-Yc4kmu2Opaz4pRZ-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zA23MoTUsTF4_91t8viU-3" target="CvNH-Yc4kmu2Opaz4pRZ-5">
